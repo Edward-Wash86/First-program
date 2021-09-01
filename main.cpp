@@ -9,4 +9,6 @@ int main() {
 
   int max = 567;
   
+  double min = 4674;
+  
 }
