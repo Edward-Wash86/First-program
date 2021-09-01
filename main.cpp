@@ -6,4 +6,7 @@ int main() {
   cout << "Hello World!\n";
 
   cout << "Edward" << endl;
+
+  int max = 567;
+  
 }
